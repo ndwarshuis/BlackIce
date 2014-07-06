@@ -1,4 +1,8 @@
-Blackice theme for Cinnamon 2.2
+BlackIce theme for Cinnamon 2.2
+
+Based on/inspired by the following themes (with authors):
+-DarkCold: originalseed
+-Dorian: hellokitten
 
 Installation
 -system wide: copy/paste theme into /usr/share/themes
