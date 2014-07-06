@@ -1664,28 +1664,28 @@ style "blackice-notebook" {
 		image {
 			function		= EXTENSION
 			file			= "tab/tab-top-active.png"
-			border			= {4,4,5,0}
+			border			= {4,4,10,0}
 			stretch			= TRUE
 			gap_side		= BOTTOM
 		}
 		image {
 			function		= EXTENSION
 			file			= "tab/tab-bottom-active.png"
-			border			= {4,4,0,5}
+			border			= {4,4,0,10}
 			stretch			= TRUE
 			gap_side		= TOP
 		}
 		image {
 			function		= EXTENSION
 			file			= "tab/tab-left-active.png"
-			border			= {5,0,4,4}
+			border			= {10,0,4,4}
 			stretch			= TRUE
 			gap_side		= RIGHT
 		}
 		image {
 			function		= EXTENSION
 			file			= "tab/tab-right-active.png"
-			border			= {0,5,4,4}
+			border			= {0,10,4,4}
 			stretch			= TRUE
 			gap_side		= LEFT
 		}

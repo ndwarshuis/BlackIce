@@ -35,8 +35,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="11.420341"
-     inkscape:cx="3.5991936"
-     inkscape:cy="7.6304917"
+     inkscape:cx="16.747337"
+     inkscape:cy="10.272283"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -356,7 +356,7 @@
        y1="1.9516178"
        x2="12.521742"
        y2="23.561827"
-       gradientTransform="matrix(1.363636,0,0,1.0740061,-1.7272725,-0.14724214)" />
+       gradientTransform="matrix(1.363636,0,0,1.0740061,-1.7272725,-1.1472421)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3913-1"
@@ -450,16 +450,6 @@
          offset="1"
          id="stop4000-2-5-1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient12692"
-       id="linearGradient12698"
-       x1="12"
-       y1="1"
-       x2="12"
-       y2="24"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2907206,0,0,1.110276,-0.13400877,-0.15413428)" />
   </defs>
   <metadata
      id="metadata7">image/svg+xml<rdf:RDF>
@@ -473,32 +463,23 @@
 </rdf:RDF>
 </metadata>
   <rect
-     style="opacity:0.12000002;fill:none;stroke:#000000;stroke-width:1.16431105;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect3064-3-7-0-6-6"
-     width="30.83569"
-     height="29.83569"
-     x="0.58211625"
-     y="0.58219528"
-     ry="2.7724943"
-     rx="3.2232697" />
-  <rect
-     style="fill:#121212;fill-opacity:1;stroke:url(#linearGradient12698);stroke-width:1.02162504;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#121212;fill-opacity:1;stroke:#0b0b0b;stroke-width:1.02162504;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3064-3-7-0-6"
      width="30.978374"
      height="29.978376"
      x="0.51081252"
-     y="1.5108128"
-     ry="2.7761528"
+     y="0.51081109"
+     ry="3.4891889"
      rx="3.2273409" />
   <rect
-     style="opacity:0.02999998;fill:url(#linearGradient3988);fill-opacity:1;stroke:none"
+     style="opacity:0.018;fill:url(#linearGradient3988);fill-opacity:1;stroke:none"
      id="rect3064-3-7"
      width="30"
      height="29"
      x="1"
-     y="2"
-     ry="2.3542869"
-     rx="2.7701471"
+     y="1"
+     ry="3"
+     rx="3"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
 </svg>
