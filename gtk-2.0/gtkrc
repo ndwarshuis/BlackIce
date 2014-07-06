@@ -1671,21 +1671,21 @@ style "blackice-notebook" {
 		image {
 			function		= EXTENSION
 			file			= "tab/tab-bottom-active.png"
-			border			= {3,3,0,3}
+			border			= {4,4,0,5}
 			stretch			= TRUE
 			gap_side		= TOP
 		}
 		image {
 			function		= EXTENSION
 			file			= "tab/tab-left-active.png"
-			border			= {3,0,3,3}
+			border			= {5,0,4,4}
 			stretch			= TRUE
 			gap_side		= RIGHT
 		}
 		image {
 			function		= EXTENSION
 			file			= "tab/tab-right-active.png"
-			border			= {0,3,3,3}
+			border			= {0,5,4,4}
 			stretch			= TRUE
 			gap_side		= LEFT
 		}
